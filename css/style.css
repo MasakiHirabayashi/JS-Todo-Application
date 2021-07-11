@@ -59,3 +59,18 @@ li{
     margin-top: 60px;
     width: 100%;
 }
+
+.completeTaskTable{
+    margin-top: 100px;
+    width: 100%;
+}
+
+.deleteButton{
+    max-Width: 60%;
+    background-color: #ee2065;
+}
+
+.completeButton{
+    max-Width: 60%;
+    background-color: #2096f3;
+}
